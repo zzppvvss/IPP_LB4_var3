@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPP_LB4_var3", "IPP_LB4_var3\IPP_LB4_var3.vcxproj", "{6ED0C240-D14A-4A06-83F9-42DF341C603A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED0C240-D14A-4A06-83F9-42DF341C603A}.Debug|x64.ActiveCfg = Debug|x64
+		{6ED0C240-D14A-4A06-83F9-42DF341C603A}.Debug|x64.Build.0 = Debug|x64
+		{6ED0C240-D14A-4A06-83F9-42DF341C603A}.Debug|x86.ActiveCfg = Debug|Win32
+		{6ED0C240-D14A-4A06-83F9-42DF341C603A}.Debug|x86.Build.0 = Debug|Win32
+		{6ED0C240-D14A-4A06-83F9-42DF341C603A}.Release|x64.ActiveCfg = Release|x64
+		{6ED0C240-D14A-4A06-83F9-42DF341C603A}.Release|x64.Build.0 = Release|x64
+		{6ED0C240-D14A-4A06-83F9-42DF341C603A}.Release|x86.ActiveCfg = Release|Win32
+		{6ED0C240-D14A-4A06-83F9-42DF341C603A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F39E761A-BCD2-4C0C-98B2-50660F8D1894}
+	EndGlobalSection
+EndGlobal
